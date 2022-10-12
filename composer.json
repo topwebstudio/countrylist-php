@@ -1,0 +1,9 @@
+{
+    "name": "topwebstudio/countrylist-php",
+    "description": "Country list class",
+    "autoload": {
+        "psr-4": {
+            "Topwebstudio\\": "src/"
+        }
+    }
+}
