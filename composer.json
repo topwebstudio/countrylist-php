@@ -3,7 +3,7 @@
     "description": "Country list class",
     "autoload": {
         "psr-4": {
-            "Topwebstudio\\": "src/"
+            "Topwebstudio\\Countrylist": "src/"
         }
     }
 }

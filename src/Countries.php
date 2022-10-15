@@ -1,6 +1,6 @@
 <?php
 
-namespace Topwebstudio;
+namespace Topwebstudio\Countrylist;
 
 class Countries {
 
